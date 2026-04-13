@@ -1,0 +1,3 @@
+BK001,Java Programming,James Gosling,false,STU001
+BK002,Data Structures,Robert Lafore,true,null
+BK003,Design Patterns,Erich Gamma,false,STU001

@@ -1,0 +1,2 @@
+STU001,John Doe,pass123,STUDENT
+STU002,Jane Smith,jane456,STUDENT
